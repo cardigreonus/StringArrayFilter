@@ -6,7 +6,7 @@ class Program
     static void Main()
     {
         // Ввод строк с клавиатуры
-        Console.WriteLine("Введите строки через запятую:");
+        Console.WriteLine("Add:");
         string input = Console.ReadLine();
         string[] inputArray = input.Split(' ');
 
